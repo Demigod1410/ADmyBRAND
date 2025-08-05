@@ -2,7 +2,7 @@
 
 ADmyBRAND is an innovative advertising platform that leverages artificial intelligence to optimize ad campaigns, provide deep audience insights, and automate creative processes.
 
-![ADmyBRAND](/public/ADmyBRAND.png)
+![Alt text](ADbyBRAND.png "Optional Title")
 
 ## Features
 
